@@ -1,0 +1,18 @@
+section{
+    display: flex;
+}
+div{
+    margin: 6%;
+}
+#car{
+    width: 60px;
+}
+#n{
+    display: flex;
+    margin: 2%;
+}
+#funko{
+    width: 100%;
+    padding: 5%;
+    border: solid black 2px;
+}
