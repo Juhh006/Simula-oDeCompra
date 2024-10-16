@@ -5,7 +5,9 @@ div{
     margin: 6%;
 }
 #car{
-    width: 60px;
+    width: 80px;
+    height: 70px;
+    padding: 130px 0px 2px 0px;
 }
 #n{
     display: flex;
